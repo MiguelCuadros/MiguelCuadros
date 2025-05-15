@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is MiguelCuadros, from Perú</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 ###
 
